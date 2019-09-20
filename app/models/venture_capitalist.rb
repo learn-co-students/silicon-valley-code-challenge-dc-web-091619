@@ -1,6 +1,6 @@
 class VentureCapitalist
 
-    attr_accessor :name, :total_worth, :startup, :funding_round
+    attr_accessor :name, :total_worth, :startup, :fundinground
     @@all = []
 
     def self.all
